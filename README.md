@@ -20,7 +20,7 @@ Contributions to this program are welcome. If you find a bug or have a suggestio
 
 ## License
 
-This program is licensed under the MIT license. See the LICENSE file for more information.
+This program is licensed under the MIT license. See the [LICENSE](https://github.com/usamaweb/Miles-To-Kilometer-Converter/blob/main/LICENSE) file for more information.
 
 ## Credits
 
